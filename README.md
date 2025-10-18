@@ -15,4 +15,4 @@ I'm **Ahmad Danesh Sudiono**
 
 ---
 
-⭐️ From [Danesh Ahmad Sudiono](https://github.com/ADaneshS1)
+⭐️ From [Ahmad Danesh Sudiono](https://github.com/ADaneshS1)
