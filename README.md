@@ -18,13 +18,7 @@ I'm **Ahmad Danesh Sudiono**
   </a>
 </p>
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-⭐️ From [Danesh Ahmad Sudiono](https://github.com/your-username)
+⭐️ From [Danesh Ahmad Sudiono](https://github.com/ADaneshS1)
